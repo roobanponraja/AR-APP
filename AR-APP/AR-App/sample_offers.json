@@ -1,0 +1,65 @@
+{
+    "offersList": [{
+        "expandedMessage": "Earn 5% cash back on any purchase from CVS! Rewards can be earned on any purchase amount up to $25. Offer expires 9/27/2020. Offer valid one time only.",
+        "merchantName": "CVS",
+        "shortMessage": "5% Cash Back"
+    }, {
+        "expandedMessage": "Earn 3% cash back on any purchase from Green Trends! Rewards can be earned on any purchase amount up to $25. Offer expires 10/27/2020. Offer valid one time only.",
+        "merchantName": "Green Trends 3%",
+        "shortMessage": "Flat 20%",
+        "latitude": "",
+        "longitude": "",
+        "altitude": "",
+        "address": ""
+    }, {
+        "expandedMessage": "Earn 100 rewards point on any purchase from Walmart! Rewards can be earned on any purchase amount up to $25. Offer expires 6/27/2020. Offer valid one time only.",
+        "merchantName": "Walmart",
+        "shortMessage": "100 Rewards Point",
+        "latitude": "",
+        "longitude": "",
+        "altitude": "",
+        "address": ""
+    },{
+        "expandedMessage": "Earn 12% cash back on any purchase from McDonalds! Rewards can be earned on any purchase amount up to $25. Offer expires 09/27/2019. Offer valid one time only.",
+        "merchantName": "McDonalds",
+        "shortMessage": "12% cash back",
+        "latitude": "",
+        "longitude": "",
+        "altitude": "",
+        "address": ""
+    },{
+        "expandedMessage": "Earn Rewards on any purchase from Burger King! Rewards can be earned on any purchase amount up to $25. Offer expires 6/27/2019. Offer valid one time only.",
+        "merchantName": "Burger King",
+        "shortMessage": "Rewards From Burger King",
+        "latitude": "",
+        "longitude": "",
+        "altitude": "",
+        "address": ""
+    },{
+        "expandedMessage": "Earn 10% cash back when you dine at Chili's, with a $15.00 cash back maximum! Offer valid one time only. Offer expires 7/21/2019. Welcome to Chili's",
+        "merchantName": "Chili's 10%",
+        "shortMessage": "10% Cash Back",
+        "latitude": "",
+        "longitude": "",
+        "altitude": "",
+        "address": ""
+    },{
+        "expandedMessage": "Earn 10% cash back when you dine at Target, with a $20.00 cash back maximum! Offer valid one time only. Offer expires 12/21/2019. Welcome to Chili's",
+        "merchantName": "Target",
+        "shortMessage": "30% Cash Back",
+        "latitude": "",
+        "longitude": "",
+        "altitude": "",
+        "address": ""
+    }, {
+        "expandedMessage": "Earn 10% cash back when you dine at Curry's Curnch, with a $25.00 cash back maximum! Offer valid one time only. Offer expires 11/21/2019. Welcome to Chili's",
+        "merchantName": "Curry's Curnch",
+        "shortMessage": "10% Cash Back",
+        "latitude": "",
+        "longitude": "",
+        "altitude": "",
+        "address": ""
+    }],
+    "status": "success",
+    "statusCode": "000"
+}
